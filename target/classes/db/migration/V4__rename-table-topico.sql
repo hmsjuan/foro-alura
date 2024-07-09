@@ -1,0 +1,1 @@
+ALTER TABLE topico RENAME TO topicos;
